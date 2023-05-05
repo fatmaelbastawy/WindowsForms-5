@@ -1,0 +1,29 @@
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.exe.config
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.exe
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.pdb
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.AssemblyReference.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Form1.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Form2.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Properties.Resources.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.GenerateResource.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.exe
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.AssemblyReference.cache
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.SuggestedBindingRedirects.cache
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Form1.resources
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Form2.resources
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Properties.Resources.resources
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.GenerateResource.cache
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.exe
+C:\Users\saiko stores\3D Objects\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.pdb
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.AssemblyReference.cache
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.SuggestedBindingRedirects.cache
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Form1.resources
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Form2.resources
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab_3_w_f.Properties.Resources.resources
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.GenerateResource.cache
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.CoreCompileInputs.cache
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.exe
+D:\Courses\Visual C#\lab 3 w-f\obj\Debug\lab 3 w-f.pdb
